@@ -1,2 +1,2 @@
 # CDS524-assignment
-Qlearning-game, python
+This piece of code is the coursework for the CDS524 course at Lingnan University. It implements a mini-game where the player avoids enemies using the Q-learning algorithm. You can run the .ipynb file, where version 3.0 is the final version that can be executed directly. You can also iterate using other versions. Thanks to the open-source spirit of Sparsh Agarwal, my code is an improvement based on his work.
